@@ -1,0 +1,22 @@
+ describe un flujo simple de automatización usando n8n y Telegram.
+
+Debe responder estas preguntas:
+
+¿Qué evento activa el flujo?
+¿Qué mensaje se enviaría a Telegram?
+¿Qué información no debería enviarse por seguridad?
+
+respuesta :
+Un flujo simple de automatización usando n8n y Telegram podría funcionar así:
+
+Cuando un ciudadano registra un nuevo reporte en la plataforma, n8n detecta ese evento y ejecuta automáticamente un flujo.
+ Luego, envía un mensaje a un grupo o chat de Telegram para informar que hay un nuevo caso por revisar.
+
+¿Qué evento activa el flujo?
+El flujo se activa cuando un ciudadano crea un nuevo reporte.
+
+¿Qué mensaje se enviaría a Telegram?
+Se registró un nuevo reporte de alumbrado público. Por favor, revisarlo y dale seguimiento.
+
+¿Qué información no debería enviarse por seguridad?
+No se deberían enviar datos personales del ciudadano, como el nombre completo, el número de documento, la dirección, el teléfono o cualquier otra información privada.

@@ -1,0 +1,14 @@
+ escribe entre 3 y 5 historias de usuario relacionadas con una solución comunitaria o de veeduría.
+ Después de escribirlas, ordénalas de mayor a menor prioridad.
+
+ 1.Como habitante del barrio quiero votar de forma anónima por los proyectos locales prioritarios
+ para asegurar que el presupuesto comunitario se asigne a lo que realmente necesitamos sin sufrir presiones externas.(prioridad menor 1)
+
+ 2.Como líder comunitario quiero activar un "botón de alerta de seguridad" en la aplicación que comparta mi ubicación en tiempo real
+  con el grupo de veedores si me siento en riesgo durante una inspección en territorio. (prioridad 2)
+
+3. Como ciudadano, quiero registrar una incidencia con descripción y evidencia fotográfica para reportar problemas en mi comunidad.(prioridad mayor #5)
+
+4.Como veedor comunitario quiero asignarme un reporte ciudadano para coordinar la revisión del caso y actualizar su estado (en proceso, resuelto, desestimado). (prioridad #4)
+
+5.Como funcionario de la entidad, quiero filtrar los reportes por categoría (seguridad, alumbrado, vías, aseo, etc.) para atender primero los casos más urgentes.(prioridad #3)
